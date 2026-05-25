@@ -4,7 +4,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange?style=for-the-badge\&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge\&logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-pink?style=for-the-badge)
 
 ## 📖 Project Overview
 
